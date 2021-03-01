@@ -1,0 +1,2 @@
+# Horiseon-homework
+# For this homework, I took the code that was given to me and added semantic html such as header, main, aside and footer. I put in a different title and added alt text to the images. I also condensed and commented the css file.
